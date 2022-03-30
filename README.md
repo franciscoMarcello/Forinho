@@ -43,7 +43,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [JavaScript](https://www.javascript.com/)
 - [redux](https://redux.js.org/)
 
-  
+
+## Desenvolvedores
+ <a href="https://github.com/Wes-debug">- Wesllen</a>
+ <a href="https://github.com/franciscoMarcello">-Franciso Marcello</a>
+
+
 # Abrir e rodar o projeto
 ## Clone este repositório
 $ git clone <https://github.com/franciscoMarcello/Forinho.git>
